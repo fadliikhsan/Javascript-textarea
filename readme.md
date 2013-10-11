@@ -14,7 +14,6 @@ Javascript Textarea
 
 Sample My Javascript
 ====================
-
 <pre>
     <code>
         <script>
