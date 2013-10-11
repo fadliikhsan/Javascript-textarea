@@ -16,7 +16,6 @@ Sample My Javascript
 ====================
 <pre>
     <code>
-        <script>
 		$(document).ready(function () {
 			var max = 100;
 			$('#tanyajawab').keypress(function (event){		
@@ -53,7 +52,6 @@ Sample My Javascript
 		  });
 
 		});
-		</script>
     </code>
 </pre>
 
