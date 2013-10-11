@@ -12,7 +12,7 @@ Javascript Textarea
 </table>
 
 
-Sample My Javascript
+Javascript
 ====================
 <pre>
     <code>
